@@ -1,0 +1,16 @@
+/*
+!package.json
+!LICENSE
+!components
+!interfaces
+!pages
+!src
+!utils
+!public
+/public/opensource_licenses.*
+!scripts
+!next-env.d.ts
+!next.config.js
+!vercel.json
+!tsconfig.json
+!yarn.lock
